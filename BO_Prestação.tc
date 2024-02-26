@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BO_Prestação</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86df0581-e009-491f-b22d-caca0d0e0fa6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7212b647-9464-45b1-bab7-529552d64c7f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7212b647-9464-45b1-bab7-529552d64c7f</id>
+      <masked>false</masked>
+      <name>ValorPagamento</name>
+   </variable>
+</TestCaseEntity>

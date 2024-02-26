@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BO_EnviarNotificacao</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f20be048-54aa-432a-b13f-fde8ef198cab</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7b4e9708-4eef-475f-9330-791250481dc5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>623d33e0-9772-4d89-9e72-49cb4988af85</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b340e6bf-4222-47c5-94a7-0649b7780a95</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7b4e9708-4eef-475f-9330-791250481dc5</id>
+      <masked>false</masked>
+      <name>NIF</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>623d33e0-9772-4d89-9e72-49cb4988af85</id>
+      <masked>false</masked>
+      <name>todayDateformated</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b340e6bf-4222-47c5-94a7-0649b7780a95</id>
+      <masked>false</masked>
+      <name>todayDate1</name>
+   </variable>
+</TestCaseEntity>

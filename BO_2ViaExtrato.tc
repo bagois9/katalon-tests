@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BO_2ViaExtrato</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02718388-eec7-4f80-81d8-bb998548891a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f8c283f3-3cbe-4f73-9c94-068c6f71fa97</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>061d8125-f8e5-4bbc-813a-f30dd7e7dfb5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f8c283f3-3cbe-4f73-9c94-068c6f71fa97</id>
+      <masked>false</masked>
+      <name>todayDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>061d8125-f8e5-4bbc-813a-f30dd7e7dfb5</id>
+      <masked>false</masked>
+      <name>NIF</name>
+   </variable>
+</TestCaseEntity>
